@@ -1,0 +1,9 @@
+Problems encountered: 
+- identifying pointers, difficult to distinguish between pointer and multiply sign.
+- doing work on structures separately.
+-extracting each variable name, as in program we only compare it with data type array, but were unable to extract the variable name, we would be much more helpful to solve furthur problem
+- loop syntax
+- printf, scanf, etc syntaxes.
+-removing tabs(spaces)
+-moving lines of string one line downward.
+-matching function name with prototype(haven't done)

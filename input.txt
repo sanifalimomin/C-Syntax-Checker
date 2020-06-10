@@ -1,0 +1,48 @@
+#include<stdio.h>
+int abc();
+
+
+
+
+int main()
+
+{
+	printf("%d");
+	scanf("%d",s);
+	int a,b;
+	char c,d;
+	char d,e;
+	for(a;){
+	
+	}		
+	
+	gets("a");
+	gets(b);
+	
+
+}
+{
+{
+(
+(
+]
+]
+
+		struct ;
+		 float c;
+			long a;
+int abc()
+{
+}
+
+
+int Sum_NaturalNum(n)
+{
+	char f;
+	for(i=0;i<n;i++)
+	{
+		sum=sum+i;
+	}
+	
+	return sum;
+	}
